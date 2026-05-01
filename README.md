@@ -272,10 +272,10 @@ YYYY-MM-DD-event-event-name.md
 Examples:
 
 ```text
-outputs/daily/2026-05-01-daily-review.md
-outputs/weekly/2026-W18-weekly-review.md
-outputs/monthly/2026-05-monthly-review.md
-outputs/event/2026-05-01-event-review-agent-system.md
+outputs/daily/1145-01-04-daily-review.md
+outputs/weekly/1919-W08-weekly-review.md
+outputs/monthly/1145-10-monthly-review.md
+outputs/event/1919-08-10-event-da-jian-fu-pan-agent-xi-tong.md
 ```
 
 ## Input Templates
@@ -436,16 +436,14 @@ These improvements should only be added after the basic Markdown workflow is sta
 Current version:
 
 
-Version: 1.0
+Version: 2.0
 Type: Local Markdown + Claude Code subagents
 Status: Initial working structure
 
 
 ## License
 
-This project is for personal learning, reflection, and productivity system design.
-
-Add a license file if you plan to publish or share the project publicly.
+This project is for personal learning, reflection, and productivity system design only.
 
 ```
 ```
