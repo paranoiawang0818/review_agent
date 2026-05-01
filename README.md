@@ -1,4 +1,4 @@
-````markdown
+
 # Review Agent System
 
 A local Markdown-based personal review system powered by Claude Code subagents.
@@ -435,11 +435,11 @@ These improvements should only be added after the basic Markdown workflow is sta
 
 Current version:
 
-```text
+
 Version: 1.0
 Type: Local Markdown + Claude Code subagents
 Status: Initial working structure
-```
+
 
 ## License
 
